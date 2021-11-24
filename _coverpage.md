@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Sand builds towers</h1>
 
-[开始阅读](#docsify-demo)
+[开始阅读](#Sand builds towers, less builds up towers)
 
 
 
