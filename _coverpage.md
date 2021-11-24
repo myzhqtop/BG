@@ -4,7 +4,7 @@
 <h1 align="center">Sand builds towers</h1>
 
 
-[开始阅读](#mywiki)
+[开始阅读](#Sand Builds Towers)
 
 
 
